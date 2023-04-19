@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "name": "imya.value",
+      "surname": "familiya.value",
+      "password": "pass.value",
+      "email": "email.value",
+      "file": "file.getAttribute('src')",
+      "id": "0"
+    },
+    {
+      "id": 95700074,
+      "name": "Жахонгир",
+      "surname": "Хуррамов",
+      "password": "aSasaSasASasAS",
+      "email": "khurramovjahongir611@gmail.com",
+      "file": null
+    },
+    {
+      "id": 3762119,
+      "name": "Жахонгир",
+      "surname": "Хуррамов",
+      "password": "594611594611",
+      "email": "khurramovjahongir611@gmail.com",
+      "file": null
+    },
+    {
+      "id": 89060345,
+      "name": "Жахонгир",
+      "surname": "Хуррамов",
+      "password": "11111111",
+      "email": "khurramovjahongir611@gmail.com",
+      "file": null
+    }
+  ]
+}
